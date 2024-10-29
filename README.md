@@ -2,7 +2,7 @@
 
  <div>
    <a href="https://github.com/rene-moura">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rene-moura&show_icons=true&theme=monokait&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rene-moura&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rene-moura&layout=compact&langs_count=6&theme=monokai"/>
 </div>
     
